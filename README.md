@@ -1,4 +1,4 @@
-# X9-Skyhawk---Trident-Missileworks
+# X9 Skydweller-Trident Missileworks
 Collection of tiles for Trident Missileworks X9 Skyhawk
 
 
