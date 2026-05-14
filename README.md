@@ -1,5 +1,5 @@
 # X9 Skydweller-Trident Missileworks
-Collection of tiles for Trident Missileworks X9 Skyhawk
+Collection of files for Trident Missileworks X9 Skyhawk
 
 
 
